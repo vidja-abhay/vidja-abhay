@@ -1,18 +1,28 @@
 <h1 align="center">Hi 👋, I'm Abhay Vidja</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Salesforce Developer & MERN Stack Developer from India</h3>
 
+- 🔭 I’m currently working as a **Salesforce Developer and Administrator at Hyperlink Infosystem**
 
-- 🔭 I’m currently working on **Hotel management MERN stack project.**
+- 🌱 I’m currently exploring **Salesforce Lightning, Apex, and LWC** along with continuing my journey in **MERN Stack**
 
-- 🌱 I’m currently learning **React.js & Node.js**
-
-- 💬 Ask me about **MERN Stack Project**
+- 💬 Ask me about **Salesforce Development, MERN Stack Projects**
 
 - 📫 How to reach me **abhayvidja09@gmail.com**
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidja-abhay&label=Profile%20views&color=0e75b6&style=flat" alt="vidja-abhay" /> </p>
 
+---
 
+## 💼 Salesforce Stack:
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-005FB8?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-009EDB?style=for-the-badge&logo=lightning&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-FF6F00?style=for-the-badge&logo=database&logoColor=white)
+![Flow](https://img.shields.io/badge/Salesforce%20Flow-FFCA28?style=for-the-badge&logo=lightning&logoColor=black)
+![Salesforce Admin](https://img.shields.io/badge/Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+---
 
 ## 💻 Tech Stack :
 
@@ -78,5 +88,6 @@ Feel free to contact me if you have any questions:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-vidja-05272327b)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vidja__abhay/)
 
+---
 
-Let's connect and create something amazing together! 😊
+Let’s build great things on the cloud and the web! ☁️💻
